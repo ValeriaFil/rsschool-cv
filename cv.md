@@ -26,9 +26,11 @@ Only designer skills now:
 </body>
 </html>
 ```
+****
 ### Education
 - UX/UI design (IT Academy)
 - UX Research (It Academy)
 - Gestalt psychology and web design (Interaction design foundation)
+****
 ### English
 A2+ (taking a B1 level course now)
